@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ch09_3_client",
+    "slug": "ch09_3_client",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ch09_3_client"
+}
